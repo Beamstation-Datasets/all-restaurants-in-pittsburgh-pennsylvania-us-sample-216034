@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Pittsburgh, Pennsylvania with a population of over 302k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Pittsburgh, Pennsylvania, US",
+  "export_job_id": "2286057e-51c4-4c74-8fce-a5bb210c4b06",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 216034,
+  "location_name": "Pittsburgh",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-pittsburgh-pennsylvania-us-sample-216034",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/216034/beamstation_216034_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 1.04,
+  "sample_records": 25,
+  "sample_sha256": "9a9295d6c248d67895a9bb1655779bf27a3653225e16825e90724422673a753c",
+  "sample_size_bytes": 115247,
+  "total_records": 2400,
+  "updated_at": "2026-03-31T15:18:57.664185+00:00"
+}

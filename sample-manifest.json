@@ -1,0 +1,12 @@
+{
+  "export_job_id": "2286057e-51c4-4c74-8fce-a5bb210c4b06",
+  "id_short": 216034,
+  "published_at": "2026-04-11T07:09:08Z",
+  "repo_name": "all-restaurants-in-pittsburgh-pennsylvania-us-sample-216034",
+  "sample_asset_name": "beamstation_216034_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/216034/beamstation_216034_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "9a9295d6c248d67895a9bb1655779bf27a3653225e16825e90724422673a753c",
+  "sample_size_bytes": 115247,
+  "total_records": 2400
+}
